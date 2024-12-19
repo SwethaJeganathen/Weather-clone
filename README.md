@@ -11,7 +11,6 @@ A weather application that provides real-time weather updates based on user inpu
 - [File Structure](#file-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [License](#license)
 
 ---
@@ -93,14 +92,6 @@ project-folder
   - If the location is invalid, a message is displayed indicating the location was not found.
 
 ---
-
-## Screenshots
-
-### Home Page:
-![Home Page](https://via.placeholder.com/800x400)
-
-### Weather Results:
-![Weather Results](https://via.placeholder.com/800x400)
 
 ---
 
